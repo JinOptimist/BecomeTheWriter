@@ -1,0 +1,37 @@
+﻿@using BecomeTheWriter.Models
+@model BecomeTheWriter.Models.Passage
+@{
+    ViewBag.Title = "CreatePassage";
+    Layout = "~/Views/Master.cshtml";
+}
+@section Script
+{
+    <script src="~/scripts/passage/createPassage.js"></script>
+}
+
+@using (Html.BeginForm("CreatePassage", "Passage", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div id="createPassage">
+        <div id="prePassages" class="prePassages">
+            <p>Обязательная предыстория:</p>
+            <div class="allPassages"></div>
+        </div>
+        <div class="passage">
+            <p>Предложение</p>
+            <p>Обязательно в начале абзаца @Html.CheckBoxFor(x => x.MustBeOnTheBeginning)</p>
+            <span id="prePassage"></span>
+            @Html.TextAreaFor(x => x.Text, new { @class = "passageText" })
+            <span id="postPassage">
+                @foreach (var passageAfter in Model?.After ?? new List<Passage>())
+                {
+                    <p>@passageAfter.Text</p>
+                }
+            </span>
+        </div>
+        <div id="postPassages" class="postPassages">
+            <p>Обязательное продолжение:</p>
+            <div class="allPassages"></div>
+        </div>
+    </div>
+    <input type="submit" value="создать" />
+}

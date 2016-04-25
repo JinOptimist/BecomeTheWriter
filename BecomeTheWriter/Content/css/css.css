@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.passage {
+    border: aqua solid medium;
+    width: 400px;
+}
+
+#passages {
+    border: aqua solid medium;
+}
+
+.passageText {
+    width: 400px;
+    height: 100px;
+}

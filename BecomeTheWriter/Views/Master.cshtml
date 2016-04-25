@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Master</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/css/css.css">
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    @RenderSection("Script", false)
+</head>
+<body>
+<div>
+    @RenderBody()
+</div>
+</body>
+</html>

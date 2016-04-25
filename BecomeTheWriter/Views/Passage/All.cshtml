@@ -1,0 +1,27 @@
+﻿@model List<BecomeTheWriter.Models.Passage>
+
+@{
+    ViewBag.Title = "All Passage";
+    Layout = "~/Views/Master.cshtml";
+}
+
+@section Script
+{
+    <script>
+        $(function () {
+            $(".passage").draggable({ containment: "#passages" });
+        });
+    </script>
+}
+
+<h2>Список всех пассажей</h2>
+
+<div id="story">
+    Здесь будет история
+</div>
+<div id="passages">
+    @foreach (var passage in Model)
+    {
+        <div class="passage"><span>Пассаж номер @passage.Id</span> <p>@passage.Text</p> </div>
+    }
+</div>

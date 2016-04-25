@@ -1,0 +1,92 @@
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\ApplicationInsights.config
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\csc.exe
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\vbc.exe
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\VBCSCompiler.exe
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\BecomeTheWriter.dll.config
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\BecomeTheWriter.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\BecomeTheWriter.pdb
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.Web.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.ApplicationInsights.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Helpers.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Mvc.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Razor.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.Deployment.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.Razor.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.Web.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.ApplicationInsights.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Razor.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.Deployment.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.Razor.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Helpers.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Mvc.xml
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\obj\Debug\BecomeTheWriter.csprojResolveAssemblyReference.cache
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\obj\Debug\BecomeTheWriter.dll
+c:\users\pavel_lvou@epam.com\documents\visual studio 2015\Projects\BecomeTheWriter\BecomeTheWriter\obj\Debug\BecomeTheWriter.pdb
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\ApplicationInsights.config
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\csc.exe
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.CodeAnalysis.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.CSharp.Core.targets
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\System.Collections.Immutable.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\System.Reflection.Metadata.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\vbc.exe
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\VBCSCompiler.exe
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\roslyn\VBCSCompiler.exe.config
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\BecomeTheWriter.dll.config
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\BecomeTheWriter.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\BecomeTheWriter.pdb
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.Agent.Intercept.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.DependencyCollector.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.PerfCounterCollector.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.Web.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.WindowsServer.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.ApplicationInsights.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.Web.Infrastructure.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Helpers.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Mvc.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Razor.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.Deployment.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.Razor.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.DependencyCollector.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.Web.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.AI.WindowsServer.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.ApplicationInsights.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Razor.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.Deployment.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Webpages.Razor.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Helpers.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\bin\System.Web.Mvc.xml
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\obj\Debug\BecomeTheWriter.csprojResolveAssemblyReference.cache
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\obj\Debug\BecomeTheWriter.dll
+e:\projectPrivate\BecomeTheWriter\BecomeTheWriter\obj\Debug\BecomeTheWriter.pdb
